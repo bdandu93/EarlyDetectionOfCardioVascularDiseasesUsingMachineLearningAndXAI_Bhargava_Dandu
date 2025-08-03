@@ -35,3 +35,12 @@ Key Points:
 - Progress Update: We have perfromed the initial version of the data pre-processing by handling the NULL values.
 - Challenges faced: The major challenge faced is to decide what method to choose to handle the NULL values and inappropriate values in the serum_cholestoral.
 - Next steps: The next step is to handle the NULL values in the other columns as well.
+
+
+## Week 5 (July 27 - Aug 2)
+
+Key Points:
+
+- Progress Update: We have implemented the ML model and evaluated the model.
+- Challenge Faced: The  main challenge faced is to figure out which model we are implementing to predict the cardiovascular disease.
+- Next steps: The next steps are to perfrom ML techniques like Cross validation, Hyperparameter tuning to improve the model performance.

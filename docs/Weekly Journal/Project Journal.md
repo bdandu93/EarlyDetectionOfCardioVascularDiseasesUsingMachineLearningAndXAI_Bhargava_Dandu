@@ -79,7 +79,7 @@ Key Points:
 
 Key Points:
 
-- Progress Update: 
+- Progress Update: The
 - Challenge Faced: 
 - Next steps:
 
@@ -88,6 +88,6 @@ Key Points:
 
 Key Points:
 
-- Progress Update: 
+- Progress Update:
 - Challenge Faced: 
 - Next steps:

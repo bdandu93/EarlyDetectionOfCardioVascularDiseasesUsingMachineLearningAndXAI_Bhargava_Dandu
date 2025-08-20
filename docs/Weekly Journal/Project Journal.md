@@ -20,6 +20,7 @@ Key Points:
 - Challenges faced: There are a lot of missing values in the Switzerland dataset. The main challenge is to figure out a way to clean the combined dataset accordingly.
 - Next steps: Cleaning the combined heart disease dataset and pre-processing the dataset for implementing ML techniques.
 
+
 ## Week 3 (July 13 - July 19)
 
 Key Points:
@@ -27,6 +28,7 @@ Key Points:
 - Progress Update: We have done the initial version of the data pre-processing for the combined dataset.
 - Challenges faced: There are many missing records in the Switzerland dataset. We shall plan to use regression techniques to predict the missing values instead of dropping the records. 
 - Next steps: We can implement the regression techniques and perform data pre processing.
+
 
 ## Week 4 (July 20 - July 26)
 
@@ -44,3 +46,48 @@ Key Points:
 - Progress Update: We have implemented the ML model and evaluated the model.
 - Challenge Faced: The  main challenge faced is to figure out which model we are implementing to predict the cardiovascular disease.
 - Next steps: The next steps are to perfrom ML techniques like Cross validation, Hyperparameter tuning to improve the model performance.
+
+
+## Week 6 (Aug 3 - Aug 9)
+
+Key Points:
+
+- Progress Update: We have implemented the ML model and further tuned the ML model by perfroming the cross validation.
+- Challenge Faced: The major challenge faced is preprocessing the data before implementing the ML model.
+- Next steps: We got imiprovement in the model performance after performing cross validation. The next steps would be performing hyperparameter tuning and improving teh model performance.
+
+
+## Week 7 (Aug 10 - Aug 16)
+
+Key Points:
+
+- Progress Update: We have further tuned the ML model by performing hyperparameter tuning and saw improvement in the evaluation metrics.
+- Challenge Faced: The major challenge faced while performing hyperparameter tuning is selecting the choice of the search strategy. 
+- Next steps: The next steps are to futher implement ML techniques to enhance model performance and finally implement XAI techniques for explaining the model's predictions.
+
+
+## Week 8 (Aug 17 - Aug 23)
+
+Key Points:
+
+- Progress Update: Worked on creating an inital draft of the main report for the thesis.
+- Challenge Faced: The major challenge faced is to select the IEEE format research paper templat and including the components like tables and images into it.
+- Next steps: We have created the base structure of the research paper and now we have to include all the components into the report.
+
+
+## Week 9 (Aug 24 - Aug 30)
+
+Key Points:
+
+- Progress Update: 
+- Challenge Faced: 
+- Next steps:
+
+
+## Week 10 (Aug 31 - Sept 6)
+
+Key Points:
+
+- Progress Update: 
+- Challenge Faced: 
+- Next steps:

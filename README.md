@@ -1,4 +1,7 @@
-# Masters Project
+# 🫀 Heart Disease EDA & Prediction Project
+
+This project focuses on combining, cleaning, and analyzing multiple Heart Disease datasets from Cleveland, Hungary, and Switzerland. 
+The output is a cleaned dataset (heart_disease_combined.csv) and a series of exploratory data analysis (EDA) visualizations that help uncover key risk factors for heart disease.
 
 
 

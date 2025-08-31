@@ -85,10 +85,12 @@ This will
 
 ## Project Maintained By:
 
-Name: Bhargava Dandu.
-Student ID: D00274867.
+- [ ] Name: Bhargava Dandu.
+- [ ] Student ID: D00274867.
+
+
 
 ## Project Supervised by:
 
-Dr. Zohaib Izaj.
-Dr. Abhishek Kaushik.
+- [ ] Dr. Zohiab Ijaz.
+- [ ] Dr. Abhishek Kaushik.

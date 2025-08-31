@@ -79,9 +79,9 @@ Key Points:
 
 Key Points:
 
-- Progress Update: The
-- Challenge Faced: 
-- Next steps:
+- Progress Update: Finished the final draft of the thesis report. Worked on implementing the final version of the XAI techniques and model deployment.
+- Challenge Faced: The major challenge faced is integrating all the softwares and deployment in the mac os. The XAI techniques are very hard to implement and interpret. After analyzing the results there were few important features that contributed to the negative prediction. So, that means the newly created features are not completely explored. That was outlined in the future study.
+- Next steps: The next steps are to submit the final draft of the artefact and wait for the supervisor feedback.
 
 
 ## Week 10 (Aug 31 - Sept 6)

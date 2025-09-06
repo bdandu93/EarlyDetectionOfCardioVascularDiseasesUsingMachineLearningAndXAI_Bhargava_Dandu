@@ -88,6 +88,14 @@ Key Points:
 
 Key Points:
 
-- Progress Update:
+- Progress Update: We got the final corrections that has to be made on the final thesis report from our supervisor. We have made all the changes outlined by our supervisor.
+- Challenge Faced: The major challenge faced is to change the template of the report from research paper to the thesis report. We did an intense overleaf coding to rewrite the thesis report. We have also changed the final dashboard script to show few visualizations in the output. Instead of interactive dashboard with input/output we get to see the model performance and evaluation as well.
+- Next steps: The next steps are to perform final corrections to the thesis report and do the final submission.
+
+## Week 11 (Sept7 - Sept 13)
+
+Key Points:
+
+- Progress Update: 
 - Challenge Faced: 
 - Next steps:

@@ -76,18 +76,28 @@ This will
 - [ ] Hyperparameter Tuning
 - [ ] Feature Extraction
 - [ ] Feature Engineering
-- [ ] Boosting
+- [ ] Ensemble Learning
 
 ## XAI Techniques used
 
 - [ ] SHAP
 - [ ] LIME
 
+## Results and evaluation
+
+- [ ] Evaluating Model Performance.
+- [ ] Evaluating outputs generated after model deployment.
+- [ ] limitations of final model and further developments.
+
+## Conclusion and Future work
+
+- [ ] Conculsion
+- [ ] Future work and discussions.
+
 ## Project Maintained By:
 
 - [ ] Name: Bhargava Dandu.
 - [ ] Student ID: D00274867.
-
 
 
 ## Project Supervised by:

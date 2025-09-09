@@ -96,6 +96,6 @@ Key Points:
 
 Key Points:
 
-- Progress Update: 
-- Challenge Faced: 
-- Next steps:
+- Progress Update: We have made the final changes to the the dashboard.py script and created a interactive dashbaord which shows two seperate tabs. A tab that shows visual performance of the model and a tab that takes sample input and generates output accordingly.
+- Challenge Faced: The major challenge is to change the entire template of final report from research paper template to the thesis report. We have added more visual content to elaborate the methodology of this project. We have added sample output of every output and given detailed interpretation for thesis report.
+- Next steps: The further steps are to submit all the files related to our research, followed by final presentations and viva.
